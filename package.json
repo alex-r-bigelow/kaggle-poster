@@ -1,0 +1,23 @@
+{
+  "name": "kaggle-poster",
+  "version": "0.0.1",
+  "description": "Interactive poster that I use to get examples of data questions from people",
+  "scripts": {
+    "build": "rm -rf build/* && rollup -c",
+    "serve": "serve -C src",
+    "ghpages": "git add src/* && git commit -m \"ghpages autocommit\" && git subtree push --prefix src origin gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mure-apps/app-boilerplate.git"
+  },
+  "author": "Alex Bigelow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mure-apps/app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mure-apps/app-boilerplate#readme",
+  "devDependencies": {
+    "serve": "^6.4.9"
+  }
+}
