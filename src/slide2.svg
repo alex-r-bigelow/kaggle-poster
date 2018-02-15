@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="slide2.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5522"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e7298a;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         id="path5520" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5476"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e7298a;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         id="path5474" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3478"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e7298a;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         id="path3476" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3444"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e7298a;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         id="path3442" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path901"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e7298a;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path898"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e7298a;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path880"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e7298a;stroke-width:1pt;stroke-opacity:1;fill:#e7298a;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient844">
+      <stop
+         style="stop-color:#34315e;stop-opacity:1"
+         offset="0"
+         id="stop840" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="1"
+         id="stop842" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient844"
+       id="linearGradient846"
+       x1="89.958336"
+       y1="37.708324"
+       x2="582.24536"
+       y2="317.84702"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97471947,0,0,0.95801561,2.0841038,2.2274202)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="715.77392"
+     inkscape:cy="513.34755"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid848"
+       spacingx="5.2916667"
+       spacingy="5.2916667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249992)">
+    <rect
+       style="fill:url(#linearGradient846);fill-opacity:1;stroke:none;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:1.58749976, 1.58749976;stroke-dashoffset:0"
+       id="rect838"
+       width="508"
+       height="285.75"
+       x="5.5511151e-17"
+       y="11.249992"
+       sodipodi:insensitive="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="95.25"
+       y="58.874992"
+       id="text863"
+       data-exit="6"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="95.25"
+         y="58.874992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335">What is it about a <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold';fill:#e7298a"
+   id="tspan843">query</tspan> that</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="476.25"
+       y="74.749992"
+       id="text867"
+       data-exit="6"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="476.25"
+         y="74.749992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';text-align:end;text-anchor:end;fill:#b3b3b3;stroke-width:0.26458335">makes it easier to answer if the <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold';fill:#e7298a"
+   id="tspan847">data</tspan> is shaped as...</tspan></text>
+    <text
+       id="text944"
+       y="122.37499"
+       x="52.916668"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"
+       data-enter="1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335"
+         y="122.37499"
+         x="52.916668"
+         id="tspan942"
+         sodipodi:role="line"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold Italic';fill:#e6ab02"
+   id="tspan946">tables</tspan>?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="291.04166"
+       y="138.25"
+       id="text954"
+       data-enter="2"><tspan
+         sodipodi:role="line"
+         id="tspan952"
+         x="291.04166"
+         y="138.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335"><tspan
+   id="tspan950"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold Italic';fill:#e6ab02">lists, sets </tspan>and <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold Italic';fill:#e6ab02"
+   id="tspan1008">maps</tspan>?</tspan></text>
+    <text
+       id="text960"
+       y="164.70833"
+       x="158.75"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"
+       data-enter="3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335"
+         y="164.70833"
+         x="158.75"
+         id="tspan958"
+         sodipodi:role="line">a <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold Italic';fill:#e6ab02"
+   id="tspan962">graph</tspan>?</tspan></text>
+    <text
+       id="text974"
+       y="201.75"
+       x="476.25"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"
+       data-enter="4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';text-align:end;text-anchor:end;fill:#b3b3b3;stroke-width:0.26458335"
+         y="201.75"
+         x="476.25"
+         sodipodi:role="line"
+         id="tspan976">If we had a tool that let people</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="47.625"
+       y="180.58333"
+       id="text986"><tspan
+         sodipodi:role="line"
+         id="tspan984"
+         x="47.625"
+         y="189.9471"
+         style="stroke-width:0.26458335" /></text>
+    <text
+       id="text1006"
+       y="222.91666"
+       x="95.25"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"
+       data-enter="4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335"
+         y="222.91666"
+         x="95.25"
+         id="tspan1004"
+         sodipodi:role="line"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold Italic';fill:#e6ab02"
+   id="tspan855">reshape</tspan> the data themselves,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="476.25"
+       y="249.375"
+       id="text841"
+       data-enter="5"
+       data-exit="6"><tspan
+         id="tspan839"
+         sodipodi:role="line"
+         x="476.25"
+         y="249.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';text-align:end;text-anchor:end;fill:#b3b3b3;stroke-width:0.26458335">we could start to learn more about the relationship between</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="95.25"
+       y="270.54166"
+       id="text853"
+       data-enter="5"
+       data-exit="6"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="95.25"
+         y="270.54166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold';fill:#e7298a"
+   id="tspan859">task</tspan> and <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans Bold';fill:#e7298a"
+   id="tspan864">data</tspan> abstractions</tspan></text>
+    <g
+       id="g9631"
+       data-enter="7">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path872"
+         d="M 105.83333,132.95833 C 116.41667,154.12499 127,159.41666 148.16667,159.41666"
+         style="fill:none;stroke:#e7298a;stroke-width:2.11666679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)" />
+      <path
+         style="fill:none;stroke:#e7298a;stroke-width:2.11666679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3444);marker-end:url(#marker3478)"
+         d="m 137.58333,106.49999 c 63.5,-26.458331 121.70834,0 148.16667,15.875"
+         id="path3440"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#e7298a;stroke-width:2.11666679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5476);marker-end:url(#marker5522)"
+         d="m 259.29167,159.41666 c 15.875,10.58333 37.04167,5.29167 47.625,-10.58333"
+         id="path5472"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       data-enter="7"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="95.25"
+       y="58.874992"
+       id="text9721"><tspan
+         sodipodi:role="line"
+         id="tspan9719"
+         x="95.25"
+         y="58.874992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';fill:#cccccc;stroke-width:0.26458335">How can support <tspan
+   style="-inkscape-font-specification:'Josefin Sans Bold';font-family:'Josefin Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#e7298a"
+   id="tspan9723">lay users</tspan></tspan></text>
+    <text
+       data-enter="7"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="476.25"
+       y="74.749992"
+       id="text9727"><tspan
+         id="tspan9725"
+         sodipodi:role="line"
+         x="476.25"
+         y="74.749992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans';text-align:end;text-anchor:end;fill:#b3b3b3;stroke-width:0.26458335">in making these transitions?</tspan></text>
+  </g>
+</svg>

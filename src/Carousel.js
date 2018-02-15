@@ -9,9 +9,15 @@ class Carousel {
 
     (async () => {
       const kaggleUrl = 'https://www.kaggle.com/datasets_v2.json?sortBy=hottest&pagesize=20&page=';
+      const options = {
+        mode: 'cors',
+        headers: {
+          'Access-Control-Allow-Origin': '*'
+        }
+      };
       // Fire off parallel requests for the first nPages, and stitch them together
       this.kaggleData = await Promise.all([...new Array(nPages)]
-        .map((dummy, pageNo) => d3.json(kaggleUrl + (pageNo + 1), { crossOrigin: 'anonymous' })))
+        .map((dummy, pageNo) => d3.json(kaggleUrl + (pageNo + 1), options)))
         .then(results => {
           return results.reduce((agg, page) => {
             return agg.concat(page.datasetListItems);

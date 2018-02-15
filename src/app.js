@@ -1,7 +1,20 @@
 /* globals d3 */
+import Slide from './Slide.js';
+import Slideshow from './Slideshow.js';
 import Carousel from './Carousel.js';
 
-d3.text('static.svg')
+window.slideshow = new Slideshow([
+  new Slide(d3.text('intro.svg')),
+  new Slide(d3.text('slide2.svg'))
+]);
+/*
+Promise.all([
+  d3.text('intro.svg'),
+  d3.text('slide2.svg')
+]).then(slides => {
+
+})
+d3.text('intro.svg')
   .then(svgText => {
     d3.select('body')
       .html(svgText)
@@ -28,3 +41,4 @@ d3.select('body').on('click', () => {
     stage = 0;
   }
 });
+*/
